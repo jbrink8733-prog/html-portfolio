@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
 
+<h1>Jaden Brinkleys Resume</h1>
+
+<img src="./jaden-headshot.png" height="200"  alt="Picture of Jaden Brinkley"/>
+
+<h2>Summary:</h2>
+<p>I am an asspiring Software Engineer and Current Software Engineering Intern. This is all of my accomplishments up until this point.</p>
+
+<hr />
+
+<h2>Education:</h2>
+<ul>
+    <li>Currently enrolled in highschool, I plan on graduating May of 2026.</li>
+</ul>
+
+<h2>
+    Work Experience:
+</h2>
+<ul>
+    <li>McAllister's Deli</li>
+    <li>Willy Taco</li>
+    <li>Walmart</li>
+    <li>Software Engineering Intern for MyUI.AI (currently)</li>
+</ul>
+
+<h2>Skills:</h2>
+<ul>
+    <li>  Beginner in HTMl, and CSS </li>
+</ul>
+
+<h2>Awards/Achievments:</h2>
+<ul>
+<li>AP Scholar</li>
+<li>Varsity Football Letterman</li>
+<li>Varsity Wrestling Letterman</li>
+
+</ul>
+
+
+</body>
+</html>
